@@ -1,0 +1,7 @@
+D:\Courses\Course21\Comparisions\bin\Debug\Comparisions.exe.config
+D:\Courses\Course21\Comparisions\bin\Debug\Comparisions.exe
+D:\Courses\Course21\Comparisions\bin\Debug\Comparisions.pdb
+D:\Courses\Course21\Comparisions\obj\Debug\Comparisions.csproj.AssemblyReference.cache
+D:\Courses\Course21\Comparisions\obj\Debug\Comparisions.csproj.CoreCompileInputs.cache
+D:\Courses\Course21\Comparisions\obj\Debug\Comparisions.exe
+D:\Courses\Course21\Comparisions\obj\Debug\Comparisions.pdb
